@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+venv
+.idea
+main.py
+__pycache__/
+*.pyc
+file_xml-28-04-2023.xml
+file_xml-28-04-2023.html
+assets
+1_CodingGears_Live
